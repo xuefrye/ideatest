@@ -6,19 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d20af392-7eea-4c90-a931-b7d2fc649f44" name="Default Changelist" comment="">
+    <list default="true" id="d20af392-7eea-4c90-a931-b7d2fc649f44" name="Default Changelist" comment="github test">
       <change afterPath="$PROJECT_DIR$/../Day01/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day01/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day01/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day01/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day01/Day01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MyCase_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyCase.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/artifacts/MyCase_war_exploded/WEB-INF/classes/META-INF/MyCase.kotlin_module" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/artifacts/MyCase_war_exploded/WEB-INF/classes/com/itcast/dao/UserDao.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/artifacts/MyCase_war_exploded/WEB-INF/classes/com/itcast/dao/impl/UserDaoImpl.class" afterDir="false" />
@@ -81,50 +75,6 @@
       <change afterPath="$PROJECT_DIR$/out/production/MyCase/com/itcast/web/servlet/UpdateUserServlet.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/MyCase/com/itcast/web/servlet/UserListServlet.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/MyCase/druid.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itcast/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itcast/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itcast/domain/PageBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itcast/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itcast/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itcast/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itcast/util/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itcast/web/servlet/AddUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itcast/web/servlet/CheckCodeServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itcast/web/servlet/DeleteUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itcast/web/servlet/FindUserByPageServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itcast/web/servlet/FindUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itcast/web/servlet/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itcast/web/servlet/UpdateUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itcast/web/servlet/UserListServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/druid.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/druid-1.0.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-impl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.18-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/add.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/jquery-2.1.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/update.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -138,14 +88,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/itcast/dao/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="400">
               <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6547" column="21" selection-start-line="6547" selection-start-column="2" selection-end-line="6547" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -192,11 +151,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/itcast/service/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+            <state relative-caret-position="516">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -253,15 +212,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/itcast/web/servlet/FindUserServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="20" column="29" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/list.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
@@ -305,7 +255,6 @@
         <option value="$PROJECT_DIR$/src/com/itcast/web/servlet/FindUserServlet.java" />
         <option value="$PROJECT_DIR$/src/com/itcast/web/servlet/UpdateUserServlet.java" />
         <option value="$PROJECT_DIR$/web/update.jsp" />
-        <option value="$PROJECT_DIR$/src/com/itcast/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/com/itcast/dao/impl/UserDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/com/itcast/web/servlet/FindUserByPageServlet.java" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
@@ -313,6 +262,7 @@
         <option value="$PROJECT_DIR$/src/com/itcast/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/com/itcast/domain/PageBean.java" />
         <option value="$PROJECT_DIR$/src/com/itcast/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/com/itcast/service/UserService.java" />
       </list>
     </option>
   </component>
@@ -323,7 +273,7 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="468" />
     <option name="y" value="63" />
     <option name="width" value="1400" />
@@ -560,12 +510,20 @@
       <workItem from="1555233948152" duration="6396000" />
       <workItem from="1555242188994" duration="253000" />
       <workItem from="1555249504373" duration="21379000" />
-      <workItem from="1555317288558" duration="17292000" />
+      <workItem from="1555317288558" duration="17549000" />
     </task>
+    <task id="LOCAL-00001" summary="github test">
+      <created>1555352178656</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555352178656</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45987000" />
+    <option name="totallyTimeSpent" value="46244000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -577,19 +535,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="468" y="63" width="1400" height="997" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.78065395" visible="true" weight="0.14072494" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7796102" visible="true" weight="0.19701493" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.21934605" side_tool="true" visible="true" weight="0.14072494" />
+      <window_info id="Web" order="7" sideWeight="0.2203898" side_tool="true" visible="true" weight="0.19701493" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.20390455" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.20390455" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -599,7 +557,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.23644252" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.21258135" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.22711472" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" />
@@ -620,10 +578,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="github test" />
+    <option name="LAST_COMMIT_MESSAGE" value="github test" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/itcast/domian.java" />
     <entry file="file://$PROJECT_DIR$/web/index.html" />
     <entry file="file://$PROJECT_DIR$/src/druid.properties">
@@ -775,16 +734,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itcast/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/itcast/service/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
@@ -841,8 +790,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/itcast/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="400">
           <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6547" column="21" selection-start-line="6547" selection-start-column="2" selection-end-line="6547" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itcast/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
